@@ -2,7 +2,6 @@ The Goal of this project was to create real-time visual illustration by reading 
 
 Devices & Software list: 
 * Emotiv BCI headset (https://www.emotiv.com/insight/)
-* PC
 * TouchDesigner (https://derivative.ca/)
 
 In this example Emotive headset reads brain activity and sends those data to touchdesigner software. 
